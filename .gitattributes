@@ -1,0 +1,2 @@
+data/model/model_69epoch.torch filter=lfs diff=lfs merge=lfs -text
+data/occurrences/DeepOrchidSeries.csv filter=lfs diff=lfs merge=lfs -text
