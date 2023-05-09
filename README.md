@@ -2,8 +2,8 @@
 
 ## This git repository gathers the code supporting a research article submitted to Global Ecology and Biogeography.
 
-- The [website](https://mapviewer.plantnet.org/?config=apps/store/demo.xml#) provides access to the produced indicators on species assemblages (anonymized for double blind peer review).
-- **Article [preprint](XXX)**. Be careful it contains the author names [under double anonymous peer review]
+- The [website](https://mapviewer.plantnet.org/?config=apps/store/orchid-status.xml#) provides access to the produced indicators on species assemblages (anonymized for double blind peer review).
+- **Article [preprint] (XXX) **. Be careful, it contains the author names [under double anonymous peer review]
 - Anonnymized github link: https://anonymous.4open.science/ [To replace].
 
 What is included here?
