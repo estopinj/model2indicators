@@ -1,6 +1,6 @@
 # model2indicators
 
-## This git repository gathers the code supporting a research article submitted to Global Ecology and Biogeography.
+## This git repository gathers the code supporting a research article submitted to Ecography.
 
 - The [website](https://mapviewer.plantnet.org/?config=apps/store/orchid-status.xml#) provides access to the produced indicators on species assemblages *[anonymized for double blind peer review].*
 <!-- - **Article [preprint](XXX)**. *Be careful, it contains the author names [under double anonymous peer review]* -->
